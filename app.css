@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    transition: all 1s;
+}
+
+body{
+    text-align: center;
+    transition: all 1s;
+}
+
+ul.no-bullets {
+ 
+    list-style-type: none; 
+    padding: 0;
+    margin: 0; 
+}
+
+ul li{
+    font-size: 2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#clear{
+    margin-top:10px;
+}
